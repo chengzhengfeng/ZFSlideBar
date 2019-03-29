@@ -1,0 +1,16 @@
+PODS:
+  - ZFSlideBar (0.1.0)
+
+DEPENDENCIES:
+  - ZFSlideBar (from `../`)
+
+EXTERNAL SOURCES:
+  ZFSlideBar:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZFSlideBar: 17639acc6782ebfc7a26f30ec9a427cf195ebc1d
+
+PODFILE CHECKSUM: edf93ca0b2285f36e0a800cc7420efe43127d21a
+
+COCOAPODS: 1.4.0

@@ -1,0 +1,22 @@
+{
+  "name": "ZFSlideBar",
+  "version": "0.1.0",
+  "summary": "A short description of ZFSlideBar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CZF/ZFSlideBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CZF": "631781190@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/CZF/ZFSlideBar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZFSlideBar/Classes/**/*"
+}

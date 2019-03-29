@@ -1,0 +1,6 @@
+framework module ZFSlideBar {
+  umbrella header "ZFSlideBar-umbrella.h"
+
+  export *
+  module * { export * }
+}
